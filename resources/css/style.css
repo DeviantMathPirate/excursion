@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+#top-most {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    font-style: normal;
+    text-align: center;
+    margin: 40px;
+}
+
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: aquamarine;
+    font-style: normal;
+    text-align: center;
+    margin: 40px;
+}
