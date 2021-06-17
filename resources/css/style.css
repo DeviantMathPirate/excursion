@@ -7,7 +7,7 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     color: white;
-    font-style: normal;
+    font-weight: normal;
     text-align: center;
     margin: 40px;
 }
@@ -19,5 +19,41 @@ a {
     color: aquamarine;
     font-style: normal;
     text-align: center;
+}
+
+#link {
     margin: 40px;
 }
+
+#middle-calling {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    margin: 40px;
+}
+
+img {
+    display: block;
+    margin:20px auto;
+}
+
+#middle-bottom {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    margin: 20px;
+}
+
+.logo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    position: relative;
+    float: right;
+}
+
+i {
+    margin-right: 5px;
+  }
